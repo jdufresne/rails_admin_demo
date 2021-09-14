@@ -1,0 +1,9 @@
+.bundle
+/db/*.sqlite3
+/db/*.sqlite3-*
+/log/
+/public/assets/
+/public/packs/
+/public/packs-test/
+/tmp/
+node_modules/
